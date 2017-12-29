@@ -5,3 +5,6 @@ currentSnippet\.js
 test.sh
 dist/
 test/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
